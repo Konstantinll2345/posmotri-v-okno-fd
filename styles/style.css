@@ -316,11 +316,10 @@ ol {
 
 .more-button:focus {
   outline: none;
-
 }
 
 .more-button:focus-visible {
- 
+  outline: 1px solid rgba(255, 255, 255, 1);
 }
 
 
